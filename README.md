@@ -7,5 +7,3 @@
 * 数据集地址以及项目简介:https://tianchi.aliyun.com/competition/entrance/531872/information
 
 详细内容，可以关注微信公众号<是云开源>，回复<unet>进行获取。
-
-![qrcode_for_gh_eb61e7d62365_344](https://user-images.githubusercontent.com/38717761/142964883-41777436-ceca-4b11-baf9-df03d5e9827d.jpg)
